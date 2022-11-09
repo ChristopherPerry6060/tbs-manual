@@ -13,3 +13,13 @@ command = "mdbook-mermaid"
 
 [output.html]
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
+no-section-label = true
+git-repository-url = "https://github.com/ChristopherPerry6060/tbs-manual"
+
+[output.html.print]
+enable = true
+page-break = true
+
+[output.html.fold]
+enable = true
+level = 0
