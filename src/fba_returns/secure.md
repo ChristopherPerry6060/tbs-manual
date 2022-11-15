@@ -2,6 +2,7 @@
 
 ## Goals:
 - Secure the physical documents with a plastic sleeve
+- When opening a box, avoid cutting through the shipping label
 
 ## Physical Documents
 ```mermaid
@@ -33,6 +34,3 @@ Pallet returns are expected to be delivered with a bill of lading. A bill of
 lading will show the carrier, the tracking (or PRO number), and removal order 
 information. Per checking-in, **all** bills of lading should have already been placed 
 into a plastic sleeve on arrival.
-
-
-
