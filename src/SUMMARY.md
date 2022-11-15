@@ -15,9 +15,9 @@
 
 # FBA Returns
 - [Secure](./fba_returns/secure.md)
-- [Check]()
-  - [Shipment]()
-  - [LPN]()
+- [Check](./fba_returns/check/check.md)
+  - [Shipment](./fba_returns/check/shipment.md)
+  - [LPN](./fba_returns/check/lpn.md)
   - [Serial]()
   - [Function]()
   - [Value]()
